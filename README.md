@@ -7,6 +7,7 @@ Avatar changes are heavily rate-limited, so be prepared to probably have the scr
 
 Your bot needs to have the `GUILD_MEMBERS` [privileged intent](https://discord.com/developers/docs/topics/gateway#privileged-intents) as well as permissions to change its nickname.
 
+![image](https://i.imgur.com/ldmtQBX.gif)
 
 ### Installing
 
